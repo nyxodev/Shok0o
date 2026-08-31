@@ -10,7 +10,7 @@ Feel free to contact me if you have any questions!
 
 ## 📫 Contact Me on Social Media
 
-💬 [Issue](https://github.com/Shok0o/Shok0o/issues) Me about everything!
+📧 [Email](pro.shokodev@gmail.com) | 💬 [Discord](https://discord.gg/YOUR_INVITE) | 🐛 [Issue](https://github.com/Shok0o/Shok0o/issues) Me about everything!
 
 ## 🛠 Stack
 
